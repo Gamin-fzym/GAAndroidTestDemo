@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+    <style name="Theme.GATestDemol" parent="android:Theme.Material.Light.NoActionBar" />
+    -->
+    <style name="Theme.GATestDemol" parent="Theme.AppCompat.Light.NoActionBar" >
+        <!-- 主题颜色 -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- 其他主题属性 -->
+    </style>
+
+</resources>
